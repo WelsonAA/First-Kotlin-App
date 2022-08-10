@@ -1,5 +1,7 @@
 package com.testungit
 
 fun main(){
-    println("Hello 1")
+    val x= 9
+    val y= 10
+    println(x+y)
 }
